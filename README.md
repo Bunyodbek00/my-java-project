@@ -14,7 +14,7 @@ A collection of Java projects and programs I've built while learning Java.
 | 7 | [Weight Converter](./Projects/src/Weight_converter.java) | A weight converter tool |
 | 8 | [Hangman](./Projects/src/Hangman.java) | A classic word-guessing game with ASCII art |
 | 9 | [Alarm Clock](./Projects/src/AlarmClock.java) | A multithreaded alarm clock — also uses [AlarmRunnable.java](./Projects/src/AlarmRunnable.java) |
-| 10 | [LocalDate Practice](./Projects/src/LocalDate.java) | Date manipulation using Java's LocalDate API |
+| 10 | [LocalDate Practice](./Projects/src/LocalDateTime.java) | Date and time manipulation using Java's LocalDateTime API |
 
 ## 🚀 How to Run
 ```bash
